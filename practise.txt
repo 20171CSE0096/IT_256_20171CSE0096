@@ -1,3 +1,4 @@
 ﻿Hello world Welcome to IT lab!!!
 Date:28/01/2020
 Day:Tuesday
+Its a fun day
